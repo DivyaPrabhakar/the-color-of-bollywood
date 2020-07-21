@@ -10,7 +10,7 @@
     "color-blend": "^3.0.0",
     "hex-to-rgba": "^2.0.1",
     "hexsorter": "^1.5.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "numeral": "^2.0.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
